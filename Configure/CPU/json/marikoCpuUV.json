@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Default table",
+        "hex": "00000000"
+    },
+    {
+        "name": "UV Level 1",
+        "hex": "01000000"
+    },
+    {
+        "name": "UV Level 2",
+        "hex": "02000000"
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "name": "========= CPU =========",
+        "state": "filler"
+    },
+    {
+        "name": "Boost Clock",
+        "offset": "12",
+        "length": "4",
+        "extent": "MHz"
+    },
+    {
+        "name": "Voltage Limit",
+        "offset": "20",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "========= RAM =========",
+        "state": "filler"
+    },
+    {
+        "name": "DRAM Timing",
+        "offset": "8",
+        "length": "1"
+    },
+    {
+        "name": "RAM MHz",
+        "offset": "24",
+        "length": "4",
+        "extent": "MHz"
+    },
+    {
+        "name": "RAM Vdd2",
+        "offset": "16",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "RAM Timings",
+        "offset": "56,60,64,68,72,76,80",
+        "length": "1"
+    },
+    {
+        "name": "========= GPU =========",
+        "state": "filler"
+    },
+    {
+        "name": "GPU Voltage offset",
+        "offset": "48",
+        "length": "1"
+    },
+    {
+        "name": "== GPU Voltage Table ==",
+        "state": "filler"
+    },
+    {
+        "name": "76.8 MHz",
+        "offset": "84",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "153.6 MHz",
+        "offset": "88",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "230.4 MHz",
+        "offset": "92",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "307.2 MHz",
+        "offset": "96",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "384.0 MHz",
+        "offset": "100",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "460.8 MHz",
+        "offset": "104",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "537.6 MHz",
+        "offset": "108",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "614.4 MHz",
+        "offset": "112",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "691.2 MHz",
+        "offset": "116",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "768.0 MHz",
+        "offset": "120",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "844.8 MHz",
+        "offset": "124",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "921.6 MHz",
+        "offset": "128",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "998.4 MHz",
+        "offset": "132",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "1075.2 MHz",
+        "offset": "136",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "1152.0 MHz",
+        "offset": "140",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "1228.8 MHz",
+        "offset": "144",
+        "length": "4",
+        "extent": "mV"
+    },
+    {
+        "name": "1267.2 MHz",
+        "offset": "146",
+        "length": "4",
+        "extent": "mV"
+    }
+]

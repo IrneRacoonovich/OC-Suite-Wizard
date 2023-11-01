@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Do not adjust - CUST_ADJ only",
+        "hex": "00"
+    },
+    {
+        "name": "10 - Default timing",
+        "hex": "01"
+    },
+    {
+        "name": "8",
+        "hex": "02"
+    },
+    {
+        "name": "6",
+        "hex": "03"
+    },
+    {
+        "name": "4",
+        "hex": "04"
+    },
+    {
+        "name": "2",
+        "hex": "05"
+    },
+    {
+        "name": "1",
+        "hex": "06"
+    }
+]
