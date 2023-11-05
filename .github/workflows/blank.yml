@@ -1,0 +1,29 @@
+name: Release
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Archive
+        uses: sibiraj-s/action-archiver@v1.1.2
+        with:
+          format: zip # default is tar
+          output: "OS-Suite Wizard.zip"
+          ignore: |
+            .*
+            */**.md
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          draft: true
+          generate_release_notes: true
+          files: OS-Suite Wizard.zip
