@@ -15,8 +15,8 @@ jobs:
 
       - name: Prepare files
         run: |
-          mkdir -p ".release/switch/.overlays/OC-Suite Wizard"
-          cp -r ./* ".release/switch/.overlays/OC-Suite Wizard"
+          mkdir -p ".release/switch/.packages/OC-Suite Wizard"
+          cp -r ./* ".release/switch/.packages/OC-Suite Wizard"
           cd .release
           zip -r "OC-Suite-Wizard.zip" switch
 
