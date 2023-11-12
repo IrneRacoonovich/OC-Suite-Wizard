@@ -1,0 +1,38 @@
+name: Release
+
+on:
+  push:
+    branches: 
+      - "main"
+    tags:
+      - "*.*.*"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Prepare files
+        run: |
+          mkdir -p ".release/OC-Suite Wizard"
+          cp -r ./* ".release/OC-Suite Wizard"
+          cd .release
+          zip -r "OC-Suite-Wizard.zip" "OC-Suite Wizard"
+
+      - name: Draft release
+        uses: softprops/action-gh-release@v1
+        if: ${{ ! startsWith(github.ref, 'refs/tags/') }}
+        with:
+          draft: true
+          generate_release_notes: true
+          files: ".release/OC-Suite-Wizard.zip"
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        if: ${{ startsWith(github.ref, 'refs/tags/') }}
+        with:
+          generate_release_notes: true
+          files: ".release/OC-Suite-Wizard.zip"
