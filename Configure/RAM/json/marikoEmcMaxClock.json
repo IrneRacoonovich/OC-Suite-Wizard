@@ -569,190 +569,237 @@
     },
     {
         "name": "2508.8 MHz",
-        "hex": "00482600"
+        "hex": "00482600",
+        "color": "Orange"
     },
     {
         "name": "2515.2 MHz",
-        "hex": "00612600"
+        "hex": "00612600",
+        "color": "Orange"
     },
     {
         "name": "2521.6 MHz",
-        "hex": "007A2600"
+        "hex": "007A2600",
+        "color": "Orange"
     },
     {
         "name": "2528.0 MHz",
-        "hex": "00932600"
+        "hex": "00932600",
+        "color": "Orange"
     },
     {
         "name": "2534.4 MHz",
-        "hex": "00AC2600"
+        "hex": "00AC2600",
+        "color": "Orange"
     },
     {
         "name": "2540.8 MHz",
-        "hex": "00C52600"
+        "hex": "00C52600",
+        "color": "Orange"
     },
     {
         "name": "2547.2 MHz",
-        "hex": "00DE2600"
+        "hex": "00DE2600",
+        "color": "Orange"
     },
     {
         "name": "2553.6 MHz",
-        "hex": "00F72600"
+        "hex": "00F72600",
+        "color": "Orange"
     },
     {
         "name": "2560.0 MHz",
-        "hex": "00102700"
+        "hex": "00102700",
+        "color": "Orange"
     },
     {
         "name": "2566.4 MHz",
-        "hex": "00292700"
+        "hex": "00292700",
+        "color": "Orange"
     },
     {
         "name": "2572.8 MHz",
-        "hex": "00422700"
+        "hex": "00422700",
+        "color": "Orange"
     },
     {
         "name": "2579.2 MHz",
-        "hex": "005B2700"
+        "hex": "005B2700",
+        "color": "Orange"
     },
     {
         "name": "2585.6 MHz",
-        "hex": "00742700"
+        "hex": "00742700",
+        "color": "Orange"
     },
     {
         "name": "2592.0 MHz",
-        "hex": "008D2700"
+        "hex": "008D2700",
+        "color": "Orange"
     },
     {
         "name": "2598.4 MHz",
-        "hex": "00A62700"
+        "hex": "00A62700",
+        "color": "Orange"
     },
     {
         "name": "2604.8 MHz",
-        "hex": "00BF2700"
+        "hex": "00BF2700",
+        "color": "Orange"
     },
     {
         "name": "2611.2 MHz",
-        "hex": "00D82700"
+        "hex": "00D82700",
+        "color": "Orange"
     },
     {
         "name": "2617.6 MHz",
-        "hex": "00F12700"
+        "hex": "00F12700",
+        "color": "Orange"
     },
     {
         "name": "2624.0 MHz",
-        "hex": "000A2800"
+        "hex": "000A2800",
+        "color": "Orange"
     },
     {
         "name": "2630.4 MHz",
-        "hex": "00232800"
+        "hex": "00232800",
+        "color": "Orange"
     },
     {
         "name": "2636.8 MHz",
-        "hex": "003C2800"
+        "hex": "003C2800",
+        "color": "Orange"
     },
     {
         "name": "2643.2 MHz",
-        "hex": "00552800"
+        "hex": "00552800",
+        "color": "Orange"
     },
     {
         "name": "2649.6 MHz",
-        "hex": "006E2800"
+        "hex": "006E2800",
+        "color": "Orange"
     },
     {
         "name": "2656.0 MHz",
-        "hex": "00872800"
+        "hex": "00872800",
+        "color": "Orange"
     },
     {
         "name": "2662.4 MHz",
-        "hex": "00A02800"
+        "hex": "00A02800",
+        "color": "Orange"
     },
     {
         "name": "2668.8 MHz",
-        "hex": "00B92800"
+        "hex": "00B92800",
+        "color": "Orange"
     },
     {
         "name": "2675.2 MHz",
-        "hex": "00D22800"
+        "hex": "00D22800",
+        "color": "Orange"
     },
     {
         "name": "2681.6 MHz",
-        "hex": "00EB2800"
+        "hex": "00EB2800",
+        "color": "Orange"
     },
     {
         "name": "2688.0 MHz",
-        "hex": "00042900"
+        "hex": "00042900",
+        "color": "Orange"
     },
     {
         "name": "2694.4 MHz",
-        "hex": "001D2900"
+        "hex": "001D2900",
+        "color": "Orange"
     },
     {
         "name": "2700.8 MHz",
-        "hex": "00362900"
+        "hex": "00362900",
+        "color": "Orange"
     },
     {
         "name": "2707.2 MHz",
-        "hex": "004F2900"
+        "hex": "004F2900",
+        "color": "Orange"
     },
     {
         "name": "2713.6 MHz",
-        "hex": "00682900"
+        "hex": "00682900",
+        "color": "Orange"
     },
     {
         "name": "2720.0 MHz",
-        "hex": "00812900"
+        "hex": "00812900",
+        "color": "Orange"
     },
     {
         "name": "2726.4 MHz",
-        "hex": "009A2900"
+        "hex": "009A2900",
+        "color": "Orange"
     },
     {
         "name": "2732.8 MHz",
-        "hex": "00B32900"
+        "hex": "00B32900",
+        "color": "Orange"
     },
     {
         "name": "2739.2 MHz",
-        "hex": "00CC2900"
+        "hex": "00CC2900",
+        "color": "Orange"
     },
     {
         "name": "2745.6 MHz",
-        "hex": "00E52900"
+        "hex": "00E52900",
+        "color": "Orange"
     },
     {
         "name": "2752.0 MHz",
-        "hex": "00FE2900"
+        "hex": "00FE2900",
+        "color": "Orange"
     },
     {
         "name": "2758.4 MHz",
-        "hex": "00172A00"
+        "hex": "00172A00",
+        "color": "Orange"
     },
     {
         "name": "2764.8 MHz",
-        "hex": "00302A00"
+        "hex": "00302A00",
+        "color": "Orange"
     },
     {
         "name": "2771.2 MHz",
-        "hex": "00492A00"
+        "hex": "00492A00",
+        "color": "Orange"
     },
     {
         "name": "2777.6 MHz",
-        "hex": "00622A00"
+        "hex": "00622A00",
+        "color": "Orange"
     },
     {
         "name": "2784.0 MHz",
-        "hex": "007B2A00"
+        "hex": "007B2A00",
+        "color": "Orange"
     },
     {
         "name": "2790.4 MHz",
-        "hex": "00942A00"
+        "hex": "00942A00",
+        "color": "Orange"
     },
     {
         "name": "2796.8 MHz",
-        "hex": "00AD2A00"
+        "hex": "00AD2A00",
+        "color": "Orange"
     },
     {
         "name": "2800.0 MHz",
-        "hex": "80B92A00"
+        "hex": "80B92A00",
+        "color": "Orange"
     }
 ]
