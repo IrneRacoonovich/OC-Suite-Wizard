@@ -1,30 +1,30 @@
 [
     {
         "name": "Do not adjust - CUST_ADJ only",
-        "hex": "00"
+        "hex": "00000000"
     },
     {
         "name": "10 - Default timing",
-        "hex": "01"
+        "hex": "01000000"
     },
     {
         "name": "8",
-        "hex": "02"
+        "hex": "02000000"
     },
     {
         "name": "6",
-        "hex": "03"
+        "hex": "03000000"
     },
     {
         "name": "4",
-        "hex": "04"
+        "hex": "04000000"
     },
     {
         "name": "2",
-        "hex": "05"
+        "hex": "05000000"
     },
     {
         "name": "1",
-        "hex": "06"
+        "hex": "06000000"
     }
 ]
