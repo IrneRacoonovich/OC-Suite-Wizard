@@ -1,0 +1,5 @@
+This defines a voltage table used for the CPU. Using an UV table makes CPU draw less power.
+
+UV Level 1 is recommended for CPU speedo lower than 1650.
+
+UV Level 2 is recommended for CPU speedo equal or higher than 1650.

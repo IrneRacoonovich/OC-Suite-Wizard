@@ -1,0 +1,3 @@
+This defines the CPU frequency which is used when a game requests "boost mode" from the system on loading screens.
+
+Changing it from the default value of 1785 is not recommended, because of increased consumption without much gain in loading speed.
