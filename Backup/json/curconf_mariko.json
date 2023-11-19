@@ -8,66 +8,21 @@
         "state": "filler"
     },
     {
-        "name": "Boost Clock",
-        "offset": "12",
-        "length": "4",
-        "extent": "MHz"
-    },
-    {
         "name": "Undervolt Level",
-        "offset": "40",
+        "offset": "12",
         "length": "1"
     },
     {
-        "name": "Voltage Limit",
-        "offset": "28",
+        "name": "Voltage Maximum",
+        "offset": "20",
         "length": "4",
         "extent": "mV"
     },
     {
-        "name": "",
-        "state": "filler"
-    },
-    {
-        "name": "========= RAM =========",
-        "state": "filler"
-    },
-    {
-        "name": "",
-        "state": "filler"
-    },
-    {
-        "name": "DRAM Timing",
+        "name": "Boost Clock",
         "offset": "8",
-        "length": "1"
-    },
-    {
-        "name": "RAM MHz",
-        "offset": "32",
         "length": "4",
         "extent": "MHz"
-    },
-    {
-        "name": "RAM Vddq",
-        "offset": "36",
-        "length": "3",
-        "extent": "mV"
-    },
-    {
-        "name": "RAM Vdd2",
-        "offset": "16",
-        "length": "4",
-        "extent": "mV"
-    },
-    {
-        "name": "EMC DVB Shift",
-        "offset": "52",
-        "length": "1"
-    },
-    {
-        "name": "RAM Timings",
-        "offset": "56,60,64,68,72,76,80",
-        "length": "1"
     },
     {
         "name": "",
@@ -82,13 +37,63 @@
         "state": "filler"
     },
     {
-        "name": "GPU Undervolt Mode",
-        "offset": "44",
+        "name": "Undervolt Mode",
+        "offset": "24",
         "length": "1"
     },
     {
-        "name": "GPU Voltage offset",
+        "name": "Voltage Offset",
+        "offset": "28",
+        "length": "1"
+    },
+    {
+        "name": "Voltage Minimal",
+        "offset": "36",
+        "length": "4"
+    },
+    {
+        "name": "",
+        "state": "filler"
+    },
+    {
+        "name": "========= RAM =========",
+        "state": "filler"
+    },
+    {
+        "name": "",
+        "state": "filler"
+    },
+    {
+        "name": "Clock Maximum MHz",
+        "offset": "56",
+        "length": "4",
+        "extent": "MHz"
+    },
+    {
+        "name": "EMC Vdd2",
+        "offset": "44",
+        "length": "4",
+        "extent": "uV"
+    },
+    {
+        "name": "EMC Vddq",
         "offset": "48",
+        "length": "3",
+        "extent": "uV"
+    },
+    {
+        "name": "EMC DVB Shift",
+        "offset": "60",
+        "length": "1"
+    },
+    {
+        "name": "DRAM Timing",
+        "offset": "40",
+        "length": "1"
+    },
+    {
+        "name": "Timings",
+        "offset": "64,68,72,76,80,84,88",
         "length": "1"
     }
 ]
