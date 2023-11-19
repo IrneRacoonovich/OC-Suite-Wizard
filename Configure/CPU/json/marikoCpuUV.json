@@ -1,14 +1,18 @@
 [
     {
-        "name": "Default table",
+        "name": "Default Table",
         "hex": "00000000"
     },
     {
-        "name": "UV Level 1",
+        "name": "UV Level 1 - SLT",
         "hex": "01000000"
     },
     {
-        "name": "UV Level 2",
+        "name": "UV Level 2 - SLT",
         "hex": "02000000"
+    },
+    {
+        "name": "UV Level 3 - OCS",
+        "hex": "03000000"
     }
 ]

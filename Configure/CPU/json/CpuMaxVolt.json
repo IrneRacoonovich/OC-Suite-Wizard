@@ -1,6 +1,6 @@
 [
     {
-        "name": "1120 mV",
+        "name": "1120 mV - Default",
         "hex": "60040000"
     },
     {
@@ -92,59 +92,72 @@
         "hex": "CE040000"
     },
     {
-        "name": "1235 mV - Default",
+        "name": "1235 mV",
         "hex": "D3040000"
     },
     {
         "name": "1240 mV",
-        "hex": "D8040000"
+        "hex": "D8040000",
+        "color": "Red"
     },
     {
         "name": "1245 mV",
-        "hex": "DD040000"
+        "hex": "DD040000",
+        "color": "Red"
     },
     {
         "name": "1250 mV",
-        "hex": "E2040000"
+        "hex": "E2040000",
+        "color": "Red"
     },
     {
         "name": "1255 mV",
-        "hex": "E7040000"
+        "hex": "E7040000",
+        "color": "Red"
     },
     {
         "name": "1260 mV",
-        "hex": "EC040000"
+        "hex": "EC040000",
+        "color": "Red"
     },
     {
         "name": "1265 mV",
-        "hex": "F1040000"
+        "hex": "F1040000",
+        "color": "Red"
     },
     {
         "name": "1270 mV",
-        "hex": "F6040000"
+        "hex": "F6040000",
+        "color": "Red"
     },
     {
         "name": "1275 mV",
-        "hex": "FB040000"
+        "hex": "FB040000",
+        "color": "Red"
     },
     {
         "name": "1280 mV",
-        "hex": "00050000"
+        "hex": "00050000",
+        "color": "Red"
     },
     {
         "name": "1285 mV",
-        "hex": "05050000"
+        "hex": "05050000",
+        "color": "Red"
     },
     {
         "name": "1290 mV",
-        "hex": "0A050000"
+        "hex": "0A050000",
+        "color": "Red"
     },
     {
         "name": "1295 mV",
-        "hex": "0F050000"
+        "hex": "0F050000",
+        "color": "Red"
     },
     {
         "name": "1300 mV",
-        "hex": "14050000"
+        "hex": "14050000",
+        "color": "Red"
     }
 ]

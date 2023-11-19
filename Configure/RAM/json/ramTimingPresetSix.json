@@ -1,26 +1,26 @@
 [
     {
-        "name": "Do not adjust - CUST_ADJ only",
-        "hex": "00000000"
+        "name": "0 - CUST_ADJ Only",
+        "hex": "00"
     },
     {
-        "name": "488 - Default timing",
-        "hex": "01000000"
+        "name": "1 - Default",
+        "hex": "01"
     },
     {
-        "name": "976",
-        "hex": "02000000"
+        "name": "2",
+        "hex": "02"
     },
     {
-        "name": "1952",
-        "hex": "03000000"
+        "name": "3",
+        "hex": "03"
     },
     {
-        "name": "3256",
-        "hex": "04000000"
+        "name": "4",
+        "hex": "04"
     },
     {
-        "name": "MAX",
-        "hex": "05000000"
+        "name": "5",
+        "hex": "05"
     }
 ]

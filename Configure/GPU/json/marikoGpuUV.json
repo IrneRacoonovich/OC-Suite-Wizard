@@ -1,6 +1,6 @@
 [
     {
-        "name": "Default table",
+        "name": "Default Table",
         "hex": "00000000"
     },
     {
@@ -12,7 +12,7 @@
         "hex": "02000000"
     },
     {
-        "name": "Custom voltage table",
+        "name": "Custom Voltage Table",
         "hex": "03000000"
     }
 ]
